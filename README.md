@@ -46,14 +46,6 @@ To use it effectively you need to know how to push and pull from GitHub to RStud
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
-### Edit README	(GitHub or RStudio)
-
-Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:	
-
-*This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
-
-(And starring the repo would be nice too!)
-
 ### Next steps
 
 - Choose a theme from [https://bootswatch.com/](https://bootswatch.com/) and replace "cerulean" in `_quarto.yml` with your prefered theme.
@@ -63,4 +55,12 @@ Once you've completed these steps, delete the content of this **README** and add
 ### Additional features
 
 Please consult the official guide to **quarto** web sites: [https://quarto.org/docs/websites/](https://quarto.org/docs/websites/)
+
+### Edit README	(GitHub or RStudio)
+
+Once you've completed these steps, delete the content of this **README** and add a short description of your project with a link to the book URL. It would be appreciated if you add the following to the end:	
+
+*This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
+
+(And starring the repo would be nice too!)
 
