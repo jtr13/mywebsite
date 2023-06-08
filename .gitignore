@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+website-template.Rproj
+/.quarto/
+.DS_Store
+img/.DS_Store
